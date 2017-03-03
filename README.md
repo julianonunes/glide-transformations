@@ -1,5 +1,4 @@
 # glide-transformations
-<meta property='og:image' content='https://github.com/julianonunes/glide-transformations/blob/master/device-2017-03-03-124217.png?raw=true"/>
 
 ## ScreenGlareTransformation
 Simulates the screen glare effect.
@@ -16,3 +15,4 @@ Glide.with(this)
     .transform(new ScreenGlareTransformation(getApplicationContext()))
     .into(imageView);
 ```
+<meta property='og:image' content='https://github.com/julianonunes/glide-transformations/blob/master/device-2017-03-03-124217.png?raw=true'/>
